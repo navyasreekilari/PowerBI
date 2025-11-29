@@ -1,0 +1,7 @@
+Data Visualization for choclate factory
+
+This project uses sample data from a chocolate factory and dispalys several visualization's related to sales.
+It imports a single excel file (the data is already clean) that have mulitple sheets of data named as Shipments, Dimension Data and Calendar.
+Shipments data: It contains all the shipment details related to several shipment IDs, geographical IDs, shipment date, Amount, number of boxes and Order_status.
+Dimension Data: It contains all IDs details that are in shipment data sheet.
+Calendar Data: It contains all further details related to shipment dates like month, year, weekday and weekday name(like monday, tuesday...)
