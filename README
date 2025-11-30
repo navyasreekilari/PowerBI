@@ -5,3 +5,6 @@ It imports a single excel file (the data is already clean) that have mulitple sh
 Shipments data: It contains all the shipment details related to several shipment IDs, geographical IDs, shipment date, Amount, number of boxes and Order_status.
 Dimension Data: It contains all IDs details that are in shipment data sheet.
 Calendar Data: It contains all further details related to shipment dates like month, year, weekday and weekday name(like monday, tuesday...)
+
+
+Refrence: https://youtu.be/9sEJclxSxFQ?si=hoZ2quh1RhgBUiPG
